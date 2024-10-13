@@ -1,3 +1,5 @@
+<img src="public/Captura de tela de 2024-10-13 01-36-06.png" alt="imagem da interface" width="1000"/>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
